@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>conectorfrik</name>
+	<displayName><![CDATA[Conector Frikilería]]></displayName>
+	<version><![CDATA[1.7.8]]></version>
+	<description><![CDATA[Conector para La Frikilería]]></description>
+	<author><![CDATA[Sergio]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
